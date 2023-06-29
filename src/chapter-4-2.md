@@ -32,4 +32,4 @@ Text summarization can improve writing in several ways:
 Conclusion
 ----------
 
-Sentiment analysis and text summarization are powerful techniques for writing enhancement that can help improve clarity, coherence, and overall effectiveness of written content. By leveraging these machine learning tools, writers can create high-quality, engaging content that resonates with their audiences. In the next chapter, we will explore how machine learning techniques can be used to optimize writing for SEO.
+Sentiment analysis and text summarization are powerful techniques for writing enhancement that can help improve clarity, coherence, and overall effectiveness of written content. By leveraging these machine learning tools, writers can create high-quality, engaging content that resonates with their audiences.

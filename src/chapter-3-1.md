@@ -21,4 +21,4 @@ The style and tone of a piece of writing can greatly impact its effectiveness an
 Conclusion
 ----------
 
-Machine learning techniques can be used to address common writing issues and challenges, including grammar and syntax errors, content quality and clarity, and style and tone. By using machine learning tools such as Grammarly, ProWritingAid, Atomic Reach, and Hemingway Editor, writers can improve the overall readability, clarity, and impact of their written work. In the next chapter, we will explore how to create a customized roadmap for writing improvement using machine learning techniques.
+Machine learning techniques can be used to address common writing issues and challenges, including grammar and syntax errors, content quality and clarity, and style and tone. By using machine learning tools such as Grammarly, ProWritingAid, Atomic Reach, and Hemingway Editor, writers can improve the overall readability, clarity, and impact of their written work.

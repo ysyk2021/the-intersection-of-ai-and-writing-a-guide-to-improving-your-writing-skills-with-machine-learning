@@ -1,5 +1,3 @@
-Chapter 2: Understanding Machine Learning Technology for Writing Improvement
-============================================================================
 
 Machine learning technology has revolutionized the way we approach writing improvement. In this chapter, we will explore the basic concepts and processes of natural language processing (NLP) algorithms, different types of machine learning techniques and applications for writing improvement, and writing analysis tools and platforms for machine learning-enabled writing enhancement.
 

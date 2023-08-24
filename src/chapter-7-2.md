@@ -1,5 +1,3 @@
-Final Thoughts and Tips for Harnessing AI for Better Writing Performance
-===============================================================================================
 
 The Future of Machine Learning Adoption in Writing Improvement
 --------------------------------------------------------------

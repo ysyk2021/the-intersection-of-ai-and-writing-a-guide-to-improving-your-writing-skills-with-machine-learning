@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of Machine Learning on Writing Improvement
-===========================================================================
 
 Measuring the Effectiveness of AI Writing Enhancement Techniques
 ----------------------------------------------------------------

@@ -1,4 +1,3 @@
-# Conclusion
 
 The Future of Machine Learning Adoption in Writing Improvement
 --------------------------------------------------------------

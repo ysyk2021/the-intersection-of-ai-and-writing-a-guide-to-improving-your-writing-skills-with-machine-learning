@@ -1,5 +1,3 @@
-Basic Concepts and Processes of Natural Language Processing (NLP) Algorithms
-==========================================================================================================================================================
 
 Machine learning technology has revolutionized the way we approach writing improvement. However, in order to effectively utilize this technology, it is important to have a basic understanding of the concepts and processes involved in natural language processing (NLP) algorithms.
 

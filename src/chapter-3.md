@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI Writing Improvement
-======================================================
 
 In this chapter, we will explore how to get started with AI writing improvement. We will discuss identifying writing issues and challenges that can be addressed with machine learning, selecting the right writing analysis tools and platforms, and creating a customized roadmap for writing improvement using machine learning.
 

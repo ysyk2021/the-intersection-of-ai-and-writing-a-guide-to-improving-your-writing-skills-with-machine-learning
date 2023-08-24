@@ -1,5 +1,3 @@
-Measuring the Effectiveness of AI Writing Enhancement Techniques
-=============================================================================================================================================
 
 The use of machine learning in writing has become increasingly popular in recent years, with many tools and techniques available to writers looking to improve their skills. However, it is important to evaluate the effectiveness of these tools and techniques in order to determine whether they are truly improving writing quality.
 

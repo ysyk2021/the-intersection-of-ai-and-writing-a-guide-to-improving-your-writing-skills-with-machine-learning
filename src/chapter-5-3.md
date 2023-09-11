@@ -1,5 +1,4 @@
-Chapter 5: Developing Innovative and Compelling Fiction and Non-Fiction Writing with Machine Learning
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how machine learning can be used to develop innovative and compelling fiction and non-fiction writing. By leveraging the power of machine learning algorithms, writers can push the boundaries of creativity, generate new ideas, and enhance their storytelling techniques.
 

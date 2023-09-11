@@ -1,5 +1,4 @@
-Chapter 8: Boosting Productivity and Efficiency with AI Writing Tools and Techniques
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI writing tools and techniques can help boost productivity and efficiency for writers. By leveraging the power of artificial intelligence, writers can streamline their writing process, improve collaboration, and enhance overall productivity.
 

@@ -1,5 +1,4 @@
-Chapter 3: Enhancing Clarity and Coherence with Sentiment Analysis and Text Summarization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how sentiment analysis and text summarization can enhance clarity and coherence in writing. By leveraging AI-powered techniques such as sentiment analysis and text summarization, writers can improve the overall quality of their work by ensuring emotional tone accuracy and condensing information effectively.
 

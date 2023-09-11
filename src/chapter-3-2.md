@@ -1,5 +1,4 @@
-Chapter 10: Selecting the Right Writing Analysis Tools and Platforms for Your Needs
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right writing analysis tools and platforms that align with individual writers' needs. With a wide range of options available, it is crucial to understand the key factors to consider when choosing tools and platforms powered by AI and machine learning.
 

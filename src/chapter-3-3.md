@@ -1,5 +1,4 @@
-Chapter 9: Creating a Customized Roadmap for Writing Improvement Using Machine Learning
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how machine learning can be utilized to create a customized roadmap for individual writers seeking to improve their writing skills. By leveraging the power of machine learning algorithms, writers can receive personalized guidance and actionable steps to enhance their writing abilities.
 

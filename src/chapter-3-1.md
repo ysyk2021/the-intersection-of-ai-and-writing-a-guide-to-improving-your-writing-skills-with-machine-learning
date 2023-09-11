@@ -1,5 +1,4 @@
-Chapter 11: Identifying Writing Issues and Challenges That Can Be Addressed with Machine Learning
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various writing issues and challenges that can be effectively addressed using machine learning techniques. By leveraging the power of AI and machine learning, writers can overcome common hurdles, improve their writing skills, and enhance the overall quality of their written work.
 

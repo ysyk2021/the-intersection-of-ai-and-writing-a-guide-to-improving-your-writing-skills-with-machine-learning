@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Processes of Natural Language Processing (NLP) Algorithms
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the basic concepts and processes of Natural Language Processing (NLP) algorithms. NLP is a field of AI that focuses on enabling computers to understand, interpret, and generate human language. By understanding the fundamental components of NLP, writers can leverage machine learning techniques to enhance their writing skills.
 

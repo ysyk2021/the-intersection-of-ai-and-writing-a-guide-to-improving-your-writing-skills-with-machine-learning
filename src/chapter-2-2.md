@@ -1,5 +1,4 @@
-Chapter 4: Different Types of Machine Learning Techniques and Applications for Writing Improvement
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of machine learning techniques and their applications in improving writing skills. Machine learning algorithms enable computers to learn patterns from data and make predictions or take actions based on those patterns. By leveraging these techniques, writers can enhance their writing quality, grammar, style, and overall effectiveness.
 

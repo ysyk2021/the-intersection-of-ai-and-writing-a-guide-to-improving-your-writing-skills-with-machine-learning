@@ -1,5 +1,4 @@
-Chapter 5: Measuring the Effectiveness of AI Writing Enhancement Techniques
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to measure the effectiveness of AI writing enhancement techniques. As the intersection of AI and writing continues to evolve, it is essential to assess the impact and value of utilizing AI tools to improve writing skills. By employing appropriate evaluation methods, we can gain insights into the efficacy of AI-based writing enhancement techniques.
 

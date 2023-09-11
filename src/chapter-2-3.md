@@ -1,5 +1,4 @@
-Chapter 6: Writing Analysis Tools and Platforms for Machine Learning-Enabled Writing Enhancement
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various writing analysis tools and platforms that leverage machine learning to enhance writing skills. These AI-powered tools assist writers in improving grammar, syntax, style, and overall writing quality. By understanding the available options, writers can choose the most suitable tools to support their specific writing needs.
 
